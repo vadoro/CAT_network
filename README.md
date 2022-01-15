@@ -16,8 +16,3 @@ Citation Network Analysis of "Journal of Criticism and Theory" (비평과 이론
 ## 게피 사용법
 * 유튜브 채널, [인문학자의 디지털 리터러시](https://www.youtube.com/channel/UCu2gwN8Kl6rmfgU1AKg_LsQ)를 참조하세요.
 * 유튜브 영상, [게피 실습: 데이터 준비부터 시각화까지](https://youtu.be/lJCR_F2KIrI) 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/lJCR_F2KIrI" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
